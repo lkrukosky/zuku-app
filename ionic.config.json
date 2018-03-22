@@ -1,0 +1,8 @@
+{
+  "name": "zuku-app",
+  "app_id": "6701b109",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
